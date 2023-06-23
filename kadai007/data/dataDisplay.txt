@@ -1,0 +1,13 @@
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>70代以上</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
+<tr><td>10代</td><td>男性</td><td>支持する</td><td>自由民主党</td></tr>
